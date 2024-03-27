@@ -1,0 +1,196 @@
+.notion-full-width {
+  --notion-max-width: calc(min(1920px, 98vw));
+  box-sizing: border-box;
+  padding-left: calc(min(0px, 8vw))!important;
+  padding-right: calc(min(0px, 8vw))!important;
+}
+#block-6e85626c46794a78b716e22472b551e9 {
+  background: rgb(151,201,78);
+background: linear-gradient(90deg, rgba(151,201,78,1) 0%, rgba(97,186,168,0.9584033442478554) 100%);
+ border-radius: 7px 7px 0px 0px;
+  padding: 0px 50px;
+  
+}
+#block-699d143bb6174782920d2ba1d20f1334 {
+  position: absolute;
+  top: 9%;
+}
+#block-3c1b7c6227014408b3e4867073e2ea3e {
+  background-color:var(--notion-gray) !important;
+  border-radius: 0px 0px 7px 7px;
+  padding: 2% 4%;
+}
+#page-index .notion-column {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.notion-default_co:hover {
+  border: 1.5px solid #97C94E!important;
+}
+.notion-callout .bullet-btn {
+  background-color: #96c84d!important;
+  margin-top: 9%!important;
+}
+  #block-0a6b5cb8086541c488b1b545d372f1f3 .notion-callout .notion-page-icon-inline {
+    display: none!important;}
+.active-nav {
+  color: #97C94E!important;
+  border-top: 2px solid #97C94E!important;
+}
+.navbar-item:hover {
+  color: #97C94E!important;
+}
+.bullet-btn {
+
+  background: #A1C738!important;
+}
+#block-6e85626c46794a78b716e22472b551e9 .bullet-btn {
+
+  background: #47A390!important;
+}
+  .notion-callout {
+  padding:20px!important;}
+  .notion-asset-wrapper img {
+  border-radius: 7px!important;}
+  #block-d19f40205bfc410285859dff96fcd5c1.notion-callout .notion-page-icon-inline {
+    display: none!important;}
+  #block-fdf68187f0fc438c938180f7c3c9a202.notion-callout .notion-page-icon-inline {
+    display: none!important;}
+      #block-61d1835c079640ee9b723e0cf6f5465b.notion-callout .notion-page-icon-inline {
+    display: none!important;}
+#block-3c1b7c6227014408b3e4867073e2ea3e .notion-callout .notion-default-callout .notion-default_co
+{
+  border-right: 2px solid #000!important;}
+.bullet-column-container {
+  width: 85%!important;}
+  .bullet-copyright {
+  width: 85%!important;
+  margin-top: 3%!important;
+}
+.notion-teal_background_co {
+ 
+  background: linear-gradient(276deg, rgba(150, 200, 77, 0) 2%, rgba(36, 36, 30, 0.48) 56%, rgba(88, 89, 85, 0.4) 100%) !important;
+}
+#block-27dda350c6db403ebc61cdf257d19e2f {
+  border: 1px solid var(--bg-color-2)!important;
+  padding: 20px!important;
+  border-radius: 7px!important;
+
+	background: var(--notion-gray)!important;
+}
+#block-974ae46c180f43b6bdd7e2806f9682ca{
+   border: 1px solid var(--bg-color-2)!important;
+  padding: 20px!important;
+  border-radius: 7px!important;
+
+	background: var(--notion-gray)!important;
+}
+
+#block-27dda350c6db403ebc61cdf257d19e2f .dark-mode{
+
+	background: linear-gradient(276deg, rgba(150, 200, 77, 0) 2%, rgba(36, 36, 30, 0.48) 56%, rgba(88, 89, 85, 0.4) 100%) !important;
+}
+}
+#block-4262e8769c8046cd851acdfd5d8d381b .dark-mode .notion-callout {
+ 
+  border: none!important;}
+#block-4262e8769c8046cd851acdfd5d8d381b.notion-callout .notion-page-icon-inline {
+    display: none!important;}
+.footer-copyright {
+  border-top: 1px solid #beee80!important;}
+  .bullet-footer {
+  background: linear-gradient(90deg, rgba(151,201,78,1) 0%, rgba(97,186,168,0.9584033442478554) 100%)!important;}
+  #block-28bd35e6391c4a72a482be7b4c62e821 {
+  display: none;
+}
+.notion-callout .notion-page-icon-inline {
+  width: 53px!important;
+  height: 53px!important;
+  max-height: 53px!important;
+  max-width: 53px!important;}
+  #block-96bc22f884f44105b5e9f3a8ad39c407 {
+  border-right: 1px solid var(--bg-color-2)!important;
+  border-radius: 0px!important;
+  border-left: 0px!important;
+  border-top: 0px!important;
+  border-bottom: 0px!important;
+}
+#block-96bc22f884f44105b5e9f3a8ad39c407:hover {
+  border: 1px solid var(--bg-color-2)!important;
+    border-radius: 0px!important;
+  border-left: 0px!important;
+  border-top: 0px!important;
+  border-bottom: 0px!important;
+}
+#block-806d8af2578b43e8937aa2f3745d30dc
+{
+  border-right: 1px solid var(--bg-color-2)!important;
+  border-radius: 0px!important;
+  border-left: 0px!important;
+  border-top: 0px!important;
+  border-bottom: 0px!important;
+}
+#block-806d8af2578b43e8937aa2f3745d30dc:hover
+{
+  border-right: 1px solid var(--bg-color-2)!important;
+  border-radius: 0px!important;
+  border-left: 0px!important;
+  border-top: 0px!important;
+  border-bottom: 0px!important;
+}
+#block-d2d05814c2354eaea2cd2597f9d901d1 {
+  border: 0px!important;
+}
+#block-d2d05814c2354eaea2cd2597f9d901d1:hover {
+  border: 0px!important;
+}
+
+#block-974ae46c180f43b6bdd7e2806f9682ca {
+  margin-top: 2%;
+}
+#block-c39e369cb1c44cf5b4a91ec455ed3b84 {
+  margin-top: 2%;
+}
+.notion-blue {
+  color: #97c94e!important;
+}
+#block-f805543e95f34e7db0444374c93005f2 {
+  margin-top: 2%;
+}
+#block-47b7870a7f64450fad0fdbc5ea824f25 {
+  margin-top: 5%;
+}
+#block-53267d11b7754a20a61079701d94e529 {
+  padding-left: 3%;
+}
+#block-ad9a7b3ac2f94bcd89e44745ad155650 {
+  padding-right: 4%;
+}
+#block-0266d415a1ce4d7991639429dfc7a61d {
+  display: inline-flex;}
+  
+  #block-49aa4a3081714d48aeedc8a323d4e65a{
+  display: inline-flex;}
+  #block-f971674069004c7dbfe2c58e4ddfe1c1{
+  display: inline-flex;}
+  #block-da276c8144e14e32ae9d9cfe13b1c308 {
+  padding-left: 3%;
+}
+#block-a0d153fd9b7b4cb0a1d4a9c899c87fa4{
+  padding-left: 3%;
+}
+#block-6c8f6a7184a2466a996ceb10a1147234{
+  padding-left: 3%;
+}
+#block-8c82798c16f645e7a64c8949334b1bf4 {
+  border: 1px solid var(--bg-color-2) !important;
+  padding: 20px !important;
+  border-radius: 7px !important;
+  background: var(--notion-gray) !important;
+}
+.footer-brand-logo {
+  height: 80px!important;}
+  .footer-links {
+  display: contents!important;}
+  .bullet-column-container {
+  gap: 5rem!important;}
